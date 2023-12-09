@@ -1,0 +1,8 @@
+Hola para poder ejercuatar esto solo:
+
+1. descarga el .zip 
+2. descomprimelo 
+3. abre el android estudio
+4. dale en la parte superior izquierda File-> 0pen-> y seleccionas la carpeta calculadora donde este guardada.
+5. ejecuta 
+
